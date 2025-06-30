@@ -22,10 +22,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=omarK338&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-"Talk is cheap. Show me the code."<br>
-<br>“The best way to learn is to do. The second best? Do again.”<br>
-There are 10 types of people in the world: those who understand binary and those who don’t<br>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+> "Talk is cheap. Show me the code."  
+>  
+> “The best way to learn is to do. The second best? Do again.”  
+>  
+> There are 10 types of people in the world: those who understand binary and those who don’t
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=omarK338&limit=5&theme=dark&combine_all_yearly_contributions=true)
