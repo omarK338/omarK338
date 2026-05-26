@@ -20,13 +20,17 @@ About Me<br>I am Omar, a Computer Science student and independent software devel
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omarK338&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omarK338&theme=holi&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=omarK338&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=omarK338&limit=5&theme=neon&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repos
+
+![ChessPlaceSolverGUI](https://github-readme-stats.shion.dev/api/pin/?username=omarK338&repo=ChessPlaceSolverGUI&theme=neon&hide_border=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=omarK338&icon=5&color=13)](https://visitcount.itsvg.in)
+
+## 👁️ Profile Views
+
+[![Profile Views](https://komarev.com/ghpvc/?username=omarK338&color=brightgreen)](https://visitcount.itsvg.in)
